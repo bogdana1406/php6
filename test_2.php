@@ -1,6 +1,6 @@
 <?php 
 $sourceStrings = array(
-            'A very looooooong wooooord', 
+            'A very looooooong', 
             'Loremia ipsumia dolaria sitia ameti', 
             'Have you ever been to Lituania ?',
             'Anyone who. reads Old and Middle',
